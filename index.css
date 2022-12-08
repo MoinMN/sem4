@@ -26,7 +26,7 @@
 #navbar-items{
     display: flex;
     position: relative;
-} 
+}
 
 .nav-items{
     padding: 15px 35px;
@@ -61,7 +61,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 670px;
+    margin-bottom: 60px;
+    height: auto ;
 }
 
 #home::before{
