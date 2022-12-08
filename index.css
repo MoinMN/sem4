@@ -180,6 +180,7 @@
     border-radius: 15px;
     margin: 40px 400px;
 }
+
 #f-form form{
     display: flex;
     flex-direction: column;
