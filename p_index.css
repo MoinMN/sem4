@@ -21,10 +21,6 @@
     margin-bottom: 40px;
 }
 
-#home::before{
-    height: 195%;
-}
-
 #mid-home{
     flex-direction: column;
     justify-content: center;
