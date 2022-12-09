@@ -25,6 +25,10 @@
     position: relative;
 }
 
+#logo img:hover{
+    cursor: not-allowed;
+}
+
 #navbar-items{
     display: flex;
     position: relative;
