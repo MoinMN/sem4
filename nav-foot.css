@@ -1,0 +1,147 @@
+/* Universal */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Lora&display=swap');
+
+*{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Lora', serif;
+    -webkit-user-select: none;
+    -ms-user-select: none; 
+    user-select: none;
+    scroll-behavior: smooth;
+}
+
+/* Navigation bar */
+#navbar{
+    display: flex;
+    position: sticky;
+    top: 0px;
+    align-items: center;
+}
+
+#logo img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    position: relative;
+}
+
+#navbar-items{
+    display: flex;
+    position: relative;
+}
+
+.nav-items{
+    padding: 15px 35px;
+    font-size: 1.2rem;
+    list-style: none;
+}
+
+.nav-items a{
+    color: rgb(0, 213, 255);
+    text-decoration: none;
+}
+
+.nav-items a:hover{
+    color: black;
+    background-color: aliceblue;
+    padding: 8px 5px;
+    border-radius: 15px;
+}
+
+#navbar::before{
+    content: "";
+    position: absolute;
+    background-color: black;
+    width: 98.9vw;
+    height: 120px;
+    left: -8px;
+    opacity: 0.35;
+}
+
+/* footer */
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer::before{
+    content: "";
+    left: 0px;
+    right: 0px;
+    /* bottom: 0px; */
+    position: absolute;
+    background-color: black;
+    width: 98.9vw;
+    height: 12vh;
+    opacity: 0.6;
+    z-index: -1;
+}
+
+footer span{
+    color: white;
+}
+footer span a{
+    text-decoration: none;
+    color: rgb(200, 224, 42);
+}
+
+footer span a{
+    color: rgb(183, 255, 0);
+}
+footer span a:hover{
+    color: aqua;
+}
+
+#foot-icon{
+    display: flex;
+}
+.foot-icon{
+    padding: 6px 16px;
+}
+.foot-icon a:hover{
+    color: blue;
+}
+
+#foot-icon-1 a:hover{
+    color: red;
+}
+.foot-icon a{
+    color: lawngreen;
+}
+
+#foot-icon-1 a{
+    color: lawngreen;
+}
+
+
+/* Utility Common */
+.h-primary{
+    font-size: 2.5rem;
+    color: rgb(0, 115, 255);
+    text-align: center;
+}
+
+.h-secondary{
+    font-size: 1.6rem;
+    color: black;
+    text-shadow: 7px 7px 10px rgb(109, 196, 251);
+    text-align: center;
+}
+
+.para{
+    font-size: 1.2rem;    
+}
+
+/* #back::before{
+    content: "";
+    position:absolute;
+    background: url('img/background-img.jpg') no-repeat center top/cover;
+    left: 0px;
+    width: 100%;
+    height: 320%;
+    z-index: -1;
+    opacity: 0.4;
+    flex-wrap: wrap;
+} */
