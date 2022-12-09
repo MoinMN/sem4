@@ -61,7 +61,11 @@
 }
 
 /* footer */
-
+footer::before{
+    width: 100vw;
+    margin: auto;
+    overflow-x: auto;
+}
 
 /* Utility common */
 .para{
