@@ -10,6 +10,10 @@
     scroll-behavior: smooth;
 }
 
+body{
+    background-color:honeydew;
+}
+
 /* Navigation bar */
 #navbar{
     display: flex;
