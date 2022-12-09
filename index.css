@@ -13,7 +13,7 @@
 /* Navigation bar */
 #navbar{
     display: flex;
-    /* position: sticky; */
+    position: sticky;
     top: 0px;
     align-items: center;
 }
