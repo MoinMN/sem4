@@ -7,95 +7,95 @@
 
 #Analysis of Algorithm
 >Experiments<br>
-<img width="256" alt="pngegg" src="https://user-images.githubusercontent.com/100254727/206826738-3e0fbbfb-9159-457f-b856-5e07d1539dec.png">
-Expriment-1<br>
-Expriment-2<br>
-Expriment-3<br>
-Expriment-4<br>
-Expriment-5<br>
-Expriment-6<br>
-Expriment-7<br>
-Expriment-8<br>
-Expriment-9<br>
-Expriment-10<br>
-Expriment-11<br>
-Expriment-12<br>
-Expriment-13<br>
-Expriment-14<br>
-Expriment-15<br>
+
+[Experiment-1]          <br>
+[Experiment-2]          <br>
+[Experiment-3]          <br>
+[Experiment-4]          <br>
+[Experiment-5]          <br>
+[Experiment-6]          <br>
+[Experiment-7]          <br>
+[Experiment-8]          <br>
+[Experiment-9]          <br>
+[Experiment-10]         <br>
+[Experiment-11]         <br>
+[Experiment-12]         <br>
+[Experiment-13]         <br>
+[Experiment-14]         <br>
+[Experiment-15]         <br>
 
 #Database Management System
 >Experiments
 
-Expriment-1<br>
-Expriment-2<br>
-Expriment-3<br>
-Expriment-4<br>
-Expriment-5<br>
-Expriment-6<br>
-Expriment-7<br>
-Expriment-8<br>
-Expriment-9<br>
-Expriment-10<br>
-Expriment-11<br>
-Expriment-12<br>
-Expriment-13<br>
-Expriment-14<br>
-Expriment-15<br>
+[Experiment-1]          <br>
+[Experiment-2]          <br>
+[Experiment-3]          <br>
+[Experiment-4]          <br>
+[Experiment-5]          <br>
+[Experiment-6]          <br>
+[Experiment-7]          <br>
+[Experiment-8]          <br>
+[Experiment-9]          <br>
+[Experiment-10]         <br>
+[Experiment-11]         <br>
+[Experiment-12]         <br>
+[Experiment-13]         <br>
+[Experiment-14]         <br>
+[Experiment-15]         <br>
 
 #Operating System
 >Experiments<br>
 
-Expriment-1<br>
-Expriment-2<br>
-Expriment-3<br>
-Expriment-4<br>
-Expriment-5<br>
-Expriment-6<br>
-Expriment-7<br>
-Expriment-8<br>
-Expriment-9<br>
-Expriment-10<br>
-Expriment-11<br>
-Expriment-12<br>
-Expriment-13<br>
-Expriment-14<br>
-Expriment-15<br>
+[Experiment-1]          <br>
+[Experiment-2]          <br>
+[Experiment-3]          <br>
+[Experiment-4]          <br>
+[Experiment-5]          <br>
+[Experiment-6]          <br>
+[Experiment-7]          <br>
+[Experiment-8]          <br>
+[Experiment-9]          <br>
+[Experiment-10]         <br>
+[Experiment-11]         <br>
+[Experiment-12]         <br>
+[Experiment-13]         <br>
+[Experiment-14]         <br>
+[Experiment-15]         <br>
 
 #Microprocessor
 >Experiments<br>
 
-Expriment-1<br>
-Expriment-2<br>
-Expriment-3<br>
-Expriment-4<br>
-Expriment-5<br>
-Expriment-6<br>
-Expriment-7<br>
-Expriment-8<br>
-Expriment-9<br>
-Expriment-10<br>
-Expriment-11<br>
-Expriment-12<br>
-Expriment-13<br>
-Expriment-14<br>
-Expriment-15<br>
+[Experiment-1]          <br>
+[Experiment-2]          <br>
+[Experiment-3]          <br>
+[Experiment-4]          <br>
+[Experiment-5]          <br>
+[Experiment-6]          <br>
+[Experiment-7]          <br>
+[Experiment-8]          <br>
+[Experiment-9]          <br>
+[Experiment-10]         <br>
+[Experiment-11]         <br>
+[Experiment-12]         <br>
+[Experiment-13]         <br>
+[Experiment-14]         <br>
+[Experiment-15]         <br>
 
 #Python
 >Experiments<br>
 
-Expriment-1<br>
-Expriment-2<br>
-Expriment-3<br>
-Expriment-4<br>
-Expriment-5<br>
-Expriment-6<br>
-Expriment-7<br>
-Expriment-8<br>
-Expriment-9<br>
-Expriment-10<br>
-Expriment-11<br>
-Expriment-12<br>
-Expriment-13<br>
-Expriment-14<br>
-Expriment-15<br>
+[Experiment-1]          <br>
+[Experiment-2]          <br>
+[Experiment-3]          <br>
+[Experiment-4]          <br>
+[Experiment-5]          <br>
+[Experiment-6]          <br>
+[Experiment-7]          <br>
+[Experiment-8]          <br>
+[Experiment-9]          <br>
+[Experiment-10]         <br>
+[Experiment-11]         <br>
+[Experiment-12]         <br>
+[Experiment-13]         <br>
+[Experiment-14]         <br>
+[Experiment-15]         <br>
