@@ -7,7 +7,7 @@
 
 #Analysis of Algorithm
 >Experiments<br>
-
+<img width="256" alt="pngegg" src="https://user-images.githubusercontent.com/100254727/206826738-3e0fbbfb-9159-457f-b856-5e07d1539dec.png">
 Expriment-1<br>
 Expriment-2<br>
 Expriment-3<br>
