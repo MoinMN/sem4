@@ -12,10 +12,9 @@
 
 #navbar::before{
     height: 160px;
-    width: 100vw;
+    width: 102vw;
     top: -8px;
-    overflow-x: auto;
-    margin: auto auto;
+    overflow-x: hidden;
 }
 
 /* home */
