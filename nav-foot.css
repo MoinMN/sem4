@@ -12,6 +12,7 @@
 
 body{
     background-color:honeydew;
+    margin: 0;
 }
 
 /* Navigation bar */
@@ -27,10 +28,11 @@ body{
     height: 80px;
     border-radius: 50px;
     position: relative;
+    margin: 10px 20px;
 }
 
 #logo img:hover{
-    cursor: not-allowed;
+    cursor:not-allowed;
 }
 
 #navbar-items{
@@ -61,7 +63,7 @@ body{
     position: absolute;
     background-color: black;
     overflow-x: hidden;
-    width: 98.9vw;
+    width: 99.4vw;
     height: 120px;
     left: -8px;
     opacity: 0.35;
