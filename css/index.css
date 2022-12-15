@@ -37,6 +37,7 @@
     height: 400px;
     margin: 20px 20px;
     border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
 }
 
 #mid-home img:hover{
@@ -72,6 +73,7 @@
     align-items: center;
     /* background-color: rgb(252, 115, 115); */
     background-color: rgb(215, 252, 115);
+    box-shadow: 2px 2px 5px gray;
     border: 3px solid aqua;
     border-radius: 20px;
     padding: 10px 10px;
@@ -120,6 +122,7 @@
     background-color: aliceblue;
     border-radius: 15px;
     margin: 40px 400px;
+    box-shadow: 2px 2px 5px gray;
 }
 
 #f-form form{
