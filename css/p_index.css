@@ -39,7 +39,11 @@
 
 
 /* notices */
-
+@media (max-width:800px) {
+    .notice{
+        width: 80%;
+    }
+}
 
 /* feedback */
 #feedback{
