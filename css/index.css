@@ -127,7 +127,7 @@
 }
 
 .notice ul li{
-    list-style: decimal;
+    list-style: decimal;    
     color: blue;
     padding: 5px;
 }
@@ -137,6 +137,7 @@
 }
 
 .notice ul li a{
+    color: blue;
     text-decoration: none;
 }
 
