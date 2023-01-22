@@ -116,6 +116,36 @@
     font-size: 2.5rem;
 }
 
+.notice{
+    background-color: whitesmoke;
+    width: 40%;
+    height: 100%;
+    border-radius: 15px;
+    margin: 24px auto;
+    box-shadow: 3px 3px 8px grey;
+    padding: 4px;
+}
+
+.notice ul li{
+    list-style: decimal;
+    color: blue;
+    padding: 5px;
+}
+
+.notice ul li a:hover{
+    text-decoration: underline;
+}
+
+.notice ul li a{
+    text-decoration: none;
+}
+
+.notice ul li ul li{
+    list-style: disc;
+    color: black;
+}
+
+
 /* feedback */
 
 #feedback{
